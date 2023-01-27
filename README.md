@@ -1,1 +1,2 @@
-# AI_for_patient_Outcomes
+# AI_for_Patient_Outcomes
+Gauging the quality of patient care and optimizing patient outcomes has been regarded as equally as important as, if not more important, the medical and procedural aspects of the overall treatment of a patient in the clinical setting since the advent of patient care itself. Most recently, with the surge of increased usage of advanced artificial intelligence-based algorithms and models to assist in hospital-related tasks, the focus of machine learning applications in medicine have begun to shift to include not only quantifying patient care quality, but also predicting patient care outcomes before the formal discharge of the patient. 
